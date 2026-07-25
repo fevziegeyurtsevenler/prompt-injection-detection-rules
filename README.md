@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="prompt-injection-detection-rules" width="100%"></p>
+
 # prompt-injection-detection-rules
 
 **An open detection rule set for prompt injection & jailbreak — regex + YAML, built to drop into a guardrail, WAF, or log pipeline.**
