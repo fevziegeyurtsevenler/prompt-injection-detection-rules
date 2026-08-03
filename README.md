@@ -269,3 +269,21 @@ New evasion patterns — especially non-English ones — are the most valuable c
 [Apache-2.0](LICENSE) © Fevzi Ege Yurtsevenler
 
 <sub>Maintained as open research by Fevzi Ege Yurtsevenler (AltaySec) — multilingual LLM/AI security, OWASP GenAI merged contributor. Standards references verified against OWASP GenAI (LLM Top 10 2025) and MITRE ATLAS. If a rule here caught something real for you, a ⭐ helps other defenders find it.</sub>
+
+---
+
+## İlgili AltaySec Kaynakları
+
+- 📖 [LLM Detection Engineering: Tespit Kuralı Yazma Rehberi](https://altaysec.com.tr/arastirmalar/llm-detection-engineering) — konunun derinlemesine Türkçe analizi
+- 🌐 [AltaySec Araştırmalar](https://altaysec.com.tr/arastirmalar/) — Türkçe yapay zekâ güvenliği yazıları
+
+## Atıf
+
+```bibtex
+@software{altaysec_prompt_injection_detection_rules_2026,
+  author = {{AltaySec}},
+  title  = {prompt-injection-detection-rules},
+  year   = {2026},
+  url    = {https://github.com/fevziegeyurtsevenler/prompt-injection-detection-rules}
+}
+```
